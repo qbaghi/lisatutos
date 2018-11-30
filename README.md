@@ -14,7 +14,7 @@ Prior to run the tutorials you must:
    * LDC source code
    * LISACode
 3. Install LISACode. 
-4. Install the LDC codes following the README.md provided in the tarball. You can use Docker installation or a manual local installation.
+4. Install the LDC codes following the README.md provided in the tarball. You can use Docker installation or manual local installation.
 5. Download the [data sets](https://lisa-ldc.lal.in2p3.fr/file) for challenges LDC1-1 and LDC1-3. Files needed for the tutorials are:
    * LDC1-1_MBHB_v1_1_FD_noiseless.hdf5
    * LDC1-1_MBHB_v1_1_FD.hdf5
