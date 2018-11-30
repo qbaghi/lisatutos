@@ -9,8 +9,8 @@ The tutorials are python jupyter notebooks stored in /notebooks/.
 
 Prior to run the tutorials you must:
 
-1. Go to the [LDC webpage](https://lisa-ldc.lal.in2p3.fr/ldc) and create an account. 
-2. Download the data sets for challenges LDC1-1 and LDC1-3. Files needed for the tutorials are:
+1. Go to the [LDC website](https://lisa-ldc.lal.in2p3.fr/ldc) and create an account. 
+2. Download the [data sets](https://lisa-ldc.lal.in2p3.fr/file) for challenges LDC1-1 and LDC1-3. Files needed for the tutorials are:
   * LDC1-1_MBHB_v1_1_FD_noiseless.hdf5
   * LDC1-1_MBHB_v1_1_FD.hdf5
   * LDC1-3_VGB_v1_FD_noiseless.hdf5
