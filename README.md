@@ -20,9 +20,9 @@ Prior to run the tutorials you must:
    * LDC1-3_VGB_v1_FD_noiseless.hdf5
 5. Download the tutorials from this repository (in the ./notebooks/ directory).
 **Warning**: to properly download the notebook, there are two options:
-* from a terminal type
+* if you have git installed, from a terminal type:
 ```
-git clone 
+git clone https://github.com/qbaghi/lisatutos.git
 ```
-* from your web browser use the "raw" button 
+* from your web browser click on one of the notebooks and use the "raw" button in the git interface before downloading the file.
 
