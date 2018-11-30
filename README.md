@@ -24,5 +24,5 @@ Prior to run the tutorials you must:
 ```
 git clone https://github.com/qbaghi/lisatutos.git
 ```
-* from your web browser click on one of the notebooks and use the "raw" button in the git interface before downloading the file.
+* or from your web browser click on one of the notebooks and use the "raw" button in the git interface before downloading the file.
 
