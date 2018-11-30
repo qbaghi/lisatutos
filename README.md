@@ -20,3 +20,4 @@ Prior to run the tutorials you must:
 4. Install LISACode. 
 5. Install the LDC codes following the README.md provided in the tarball. You can use Docker installation or a manual local installation.
 
+*Note:* part of the tutorials can be done without having LISACode installed.
