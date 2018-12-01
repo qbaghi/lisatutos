@@ -24,5 +24,5 @@ Prior to run the tutorials you must:
 ```
 git clone https://github.com/qbaghi/lisatutos.git
 ```
-* or from your web browser click on the the green "download" button of this github page
+* or from your web browser click on the "Clone or download" green button of this Github page
 
