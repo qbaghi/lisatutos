@@ -13,6 +13,6 @@ https://colab.research.google.com/drive/1N2J7HQZdrB9VUgNIhCNN_lpjJ6ZNmf6M
 
 ## Additional material
 
-* the LDC source codes and data sets can be found on the [LDC website](https://lisa-ldc.lal.in2p3.fr/ldc) after creating an account. 
-* another tutorial on massive black hole binary data can be run on the same Google Colab session after the previous one has been run:
+* The LDC source codes and data sets can be found on the [LDC website](https://lisa-ldc.lal.in2p3.fr/ldc) after creating an account. 
+* Another tutorial on massive black hole binary data can be run on the same Google Colab session after the previous one has been run:
 https://colab.research.google.com/drive/148NnngmpzS5H73V8I3RF5miWTXpp_zGZ
